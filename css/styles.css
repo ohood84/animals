@@ -1,0 +1,18 @@
+.column{
+  float: left;
+  width: 600px;
+}
+
+.bold p a {
+  font-style: italic;
+  color: red;
+}
+
+.green a{
+  background-color: green;
+}
+
+.red p {
+  color: red;
+
+}
